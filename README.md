@@ -6,13 +6,11 @@ Tic-tac-toe is a paper-and-pencil game for two players that's played on a 3x3 gr
 
 ![Screenshot 2024-08-14 165347](https://github.com/user-attachments/assets/399b0648-7ad3-421c-bb49-d741c16be5b9)
 
-X is first player-
-O is second player-
+X is first player
 
-![Screenshot 2024-08-14 165435](https://github.com/user-attachments/assets/3f5a786c-2b84-49bc-a45e-70a62d8da4fc)
+O is second player
 
-
-![Screenshot 2024-08-14 165455](https://github.com/user-attachments/assets/1a1c2646-db1a-4db0-96e4-a2f6639cf52d)
+![Screenshot 2024-08-14 165435](https://github.com/user-attachments/assets/3f5a786c-2b84-49bc-a45e-70a62d8da4fc) ![Screenshot 2024-08-14 165455](https://github.com/user-attachments/assets/1a1c2646-db1a-4db0-96e4-a2f6639cf52d)
 
 Player X (1) won-
 
